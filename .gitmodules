@@ -1,0 +1,6 @@
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/aronreisx/rn-ts-expo-base.git
+[submodule "server"]
+	path = server
+	url = https://github.com/aronreisx/nest-ts-prisma.git
